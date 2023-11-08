@@ -14,6 +14,9 @@ body {
   border: 2px solid #ff2929;
 }
 
+.pfp .header {
+}
+
 .name {
   font-family: 'Poppins', sans-serif;
   font-size: 30px;
